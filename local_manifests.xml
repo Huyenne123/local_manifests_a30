@@ -12,15 +12,15 @@
 
     <!-- Repos -->
     <!-- Device -->
-    <project path="device/samsung/a30" name="device_samsung_a30" remote="crazo7924"/>
+    <project path="device/samsung/a30" name="device_samsung_a30" remote="crazo7924" revision="lineage-21-qpr3" />
 
     <!-- Device - Common -->
 
     <!-- Kernel -->
-    <project path="kernel/samsung/a30" name="Eureka-Kernel" remote="eurekadevelopment"/>
-
+    <project path="kernel/samsung/a30" name="Eureka-Kernel" remote="eurekadevelopment" revision="lineage-21" />
+    
     <!-- Vendor -->
-    <project path="vendor/samsung/a30" name="proprietary_vendor_samsung_a30" remote="crazo7924"/>
+    <project path="vendor/samsung/a30" name="proprietary_vendor_samsung_a30" remote="crazo7924" revision="lineage-21-qpr3" />
 
     <!-- Vendor - Common -->
 
