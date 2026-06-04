@@ -19,7 +19,7 @@
     <project path="kernel/samsung/a30" name="Eureka-Kernel" remote="Huyenne123"/>
 
     <!-- Vendor -->
-    <project path="vendor/samsung/a30" name="proprietary_vendor_samsung_a30" remote="Huyenne123"/>
+    <project path="vendor/samsung/a30" name="proprietary_vendor_samsung_a30" remote="Huyenne123" branch="legacy"/>
 
     <!-- Vendor - Common -->
 
