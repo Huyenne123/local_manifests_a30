@@ -3,8 +3,7 @@
 <!-- Generated using sounddrill31/actions_generate_local_manifests -->
 
     <!-- Remotes -->
-    <remote name="eurekadevelopment" fetch="https://github.com/eurekadevelopment" clone-depth="1" />
-    <remote name="crazo7924" fetch="https://github.com/crazo7924" clone-depth="1" />
+    <remote name="Huyenne123" fetch="https://github.com/Huyenne123" clone-depth="1" />
 
     <!-- Removals -->
     <remove-project name="LineageOS/android_hardware_qcom_audio" />
@@ -12,15 +11,15 @@
 
     <!-- Repos -->
     <!-- Device -->
-    <project path="device/samsung/a30" name="device_samsung_a30" remote="crazo7924"/>
+    <project path="device/samsung/a30" name="device_samsung_a30" remote="Huyenne123"/>
 
     <!-- Device - Common -->
 
     <!-- Kernel -->
-    <project path="kernel/samsung/a30" name="Eureka-Kernel" remote="eurekadevelopment"/>
+    <project path="kernel/samsung/a30" name="Eureka-Kernel" remote="Huyenne123"/>
 
     <!-- Vendor -->
-    <project path="vendor/samsung/a30" name="proprietary_vendor_samsung_a30" remote="crazo7924"/>
+    <project path="vendor/samsung/a30" name="proprietary_vendor_samsung_a30" remote="Huyenne123"/>
 
     <!-- Vendor - Common -->
 
